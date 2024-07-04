@@ -9,6 +9,9 @@
 #### Para cumplir la tarea se debe trabajar con las APIs RANDOM USER GENERATOR Y QUOTES REST
 
 
+![image](https://github.com/VeronicaBravoDevs/prueba-tecnica_APIS/assets/105925406/36c2d427-44bf-45da-9f9f-4df4cfcac4f4)
+
+
 
 Para esta tarea entonces necesitamos usar 2 APIs, pero que son las APIs? Son protocolos que intermedian entre aplicaciones para acceder a sus funcionalidades, en este caso serán los perfiles y las citas.
 
